@@ -6,27 +6,88 @@
   repo: DebugContainer
   img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
   desc: An app too maximize nutrition, enjoyment and minimize prep time and cost.
+  url: fitwrench.com
 
 - name: Bedini Generator
   gh_user: sphericalwave
   repo: jekyll-uno-timeline
   img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
   desc: Harnessing the wheelwork of nature.
+  url: FIXME
 
 - name: AudioWave
   gh_user: sphericalwave
   repo: scripts
   img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
   desc: An mobile app for playing audiobooks with background music to faciliate spaced repetition learning.
+  url: FIXME
 
 - name: Spherical Wave Video
   gh_user: sphericalwave
   repo: FaceApiWPF
   img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
   desc: Lightweight mobile video player app for iOS.
+  url: FIXME
 
 - name: Superfluid Jiujitsu Blackbelt
   gh_user: sphericalwave
   repo: FaceApiWPF
   img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
   desc: An attempt to master the suit under pressure.
+  url: FIXME
+
+- name: Soldiers Pond HVDC
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: 300kv
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: Electric Guitar
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: Aquatron Project
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: Sigmast RCS
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: Pegasus Robot
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: Fretlights Prototype
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
+
+- name: ElectroPong Prime
+  gh_user: sphericalwave
+  repo: FaceApiWPF
+  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  desc: FIXME
+  url: FIXME
