@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bedini Energizer"
+date:   2016-06-16 17:46:03 -0300
+tags: power_systems electronics
+permalink: bedini_energizer
+image: "https://live.staticflickr.com/65535/50874970133_50257c6f0e_h.jpg"
+---
+
+FIXME...link to software page
+
+<div class="col my-auto pb-3">
+   <img class="img-fluid rounded mx-auto d-block" src="https://live.staticflickr.com/65535/50874970133_50257c6f0e_h.jpg" alt='blue_belt'>
+</div>
