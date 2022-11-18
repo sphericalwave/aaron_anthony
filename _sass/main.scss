@@ -1,23 +1,29 @@
 $swBlue: #1C57C9;
+$bgColor: #222;
+$fontColor: #fff;
 
-//edits some bootstrap
 body {
-  //font
-  font-size: 0.9375rem;
-  font-weight: 400;
   font-family: 'Balsamiq Sans', cursive;
-  color: #fff;
+  color: $fontColor;
 
-  background-color: #222;
+  background-color: $bgColor;
+
   margin-top: 97px; /*TODO: for z nav bar*/
 }
 
 a {
-  color: white;
-  font-size:22px;
-
+  font-size: 1.5rem;
+  &.link {  //unvisited
+    color: red;
+  }
+  &.visted {
+    color: green;
+  }
   &.hover {
     color: hotpink; //FIXME: not working in footer
+  }
+  &.active {  //selected
+    color: $fontColor;  //doesn't seem to be working
   }
 }
 
@@ -28,17 +34,32 @@ img {
   height: auto;
 }
 
-// https://www.w3schools.com/howto/howto_css_fixed_footer.asp
-//TODO: this was working now it's cutting off body text
+//https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
 footer {
   background-color: $swBlue;
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   text-align: left;
 
   div {
-    padding: 18px; //TODO: not sure about this used in footer
+    padding: 9px; //TODO: not sure about this used in footer
   }
+}
+
+//https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+site-content {
+  flex: 1;
 }
