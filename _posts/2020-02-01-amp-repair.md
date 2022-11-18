@@ -3,7 +3,7 @@ layout: post
 title:  "amp repair"
 date:   2016-06-16 17:46:03 -0300
 tags: electronics project hardware
-permalink: hvdc
+permalink: amp repair
 image: "https://live.staticflickr.com/65535/50874970133_50257c6f0e_h.jpg"
 ---
 
