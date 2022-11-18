@@ -3,14 +3,13 @@
 
   {%- include head.html -%}
 
-  {%- include nav.html -%}
-
   <body>
-
-    {{ content }}
-    {%- include footer.html -%}
-    {%- include bootstrap-includes.html -%}
-
+    {%- include nav.html -%}
+    <main>
+      {{ content }}
+      {%- include footer.html -%}
+      {%- include bootstrap-includes.html -%}
+    </main>
   </body>
 
 </html>
