@@ -1,17 +1,24 @@
+$swBlue: #1C57C9;
+
 //edits some bootstrap
 body {
+  //font
   font-size: 0.9375rem;
   font-weight: 400;
   font-family: 'Balsamiq Sans', cursive;
   color: #fff;
+
   background-color: #222;
-  margin-top: 97px; /*for z nav bar*/
-  margin-bottom: 99px; /*for z footer*/
+  margin-top: 97px; /*TODO: for z nav bar*/
 }
 
 a {
   color: white;
   font-size:22px;
+
+  &.hover {
+    color: hotpink; //FIXME: not working in footer
+  }
 }
 
 img {
@@ -19,4 +26,19 @@ img {
   //img scaling
   max-width: 100%;
   height: auto;
+}
+
+// https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+//TODO: this was working now it's cutting off body text
+footer {
+  background-color: $swBlue;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: left;
+
+  div {
+    padding: 18px; //TODO: not sure about this used in footer
+  }
 }
