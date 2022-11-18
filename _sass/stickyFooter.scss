@@ -1,0 +1,13 @@
+$footerHeight: 89px;
+$swBlue: #1C57C9;
+
+body {
+  margin-bottom: $footerHeight;
+}
+
+footer {
+  background-color: $swBlue;
+  position: fixed;
+  width: 100%;
+  height: $footerHeight;
+}
