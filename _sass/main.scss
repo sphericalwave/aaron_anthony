@@ -1,0 +1,22 @@
+//edits some bootstrap
+body {
+  font-size: 0.9375rem;
+  font-weight: 400;
+  font-family: 'Balsamiq Sans', cursive;
+  color: #fff;
+  background-color: #222;
+  margin-top: 97px; /*for z nav bar*/
+  margin-bottom: 99px; /*for z footer*/
+}
+
+a {
+  color: white;
+  font-size:22px;
+}
+
+img {
+  border-radius: 4px;
+  //img scaling
+  max-width: 100%;
+  height: auto;
+}
